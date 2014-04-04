@@ -4,7 +4,14 @@ AmCharts.rb charting provider for Compendium reports.
 
 ## Usage
 
+This gem adds amcharts.rb as a provider for rendering charts in Compendium. If multiple providers are loaded,
+AmCharts.rb can be forced by adding the following to an initializer:
 
+```ruby
+Compendium.configure do |config|
+  config.chart_provider = :AmCharts
+end
+```
 
 ## Installation
 
