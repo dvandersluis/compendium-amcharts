@@ -1,4 +1,4 @@
-# Compendium::Amcharts
+# Compendium::Amcharts [![Gem Version](https://badge.fury.io/rb/compendium-amcharts.svg)](http://badge.fury.io/rb/compendium-amcharts)
 
 AmCharts.rb charting provider for Compendium reports.
 
