@@ -1,4 +1,5 @@
 require 'compendium/amcharts/version'
+require 'amcharts.rb'
 require 'compendium'
 require 'compendium/abstract_chart_provider'
 
